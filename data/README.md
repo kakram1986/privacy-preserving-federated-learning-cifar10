@@ -77,8 +77,7 @@ This repository retains metadata and verification evidence rather than a second 
 Expected evidence files include:
 
 ```text
-data/
-├── README.md
+evidence/
 ├── class_distribution.csv
 ├── iid_verification_summary.csv
 ├── partition_metadata.json
