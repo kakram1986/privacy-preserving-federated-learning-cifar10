@@ -41,7 +41,7 @@ The matched experiment design used CIFAR-10, five IID synthetic clients, 30 comm
 |-- evidence/
 |   |-- partition/               # IID partition records and experiment registers
 |   `-- limitations/             # DP-2 and evidence-boundary notes
-|-- docs/Supporting_Materials.docx
+|-- docs/Literature
 |-- REPRODUCIBILITY.md
 |-- DATA_DICTIONARY.md
 |-- requirements.txt
@@ -76,7 +76,7 @@ The most reliable starting points for reviewing the reported results are:
 - `results/tables/Evidence_Register.csv` for the permitted use of each evidence source;
 - `results/tables/Manuscript_Claims.csv` for source-to-claim controls;
 - `evidence/limitations/DP2_Evidence_Note.txt` for the DP-2 qualification;
-- `docs/Supporting_Materials.docx` for detailed methodology, validation, figures, and limitations.
+- `docs/Literature` for literature review evidence.
 
 ## Citation
 
