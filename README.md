@@ -80,9 +80,8 @@ The most reliable starting points for reviewing the reported results are:
 
 ## Citation
 
-Please use the metadata in `CITATION.cff`. The repository URL and any publication identifier can be added after public release.
+Please use the metadata in `CITATION.cff`. A publication identifier may be added if the associated paper or repository archive receives one.
 
 ## Licence
 
 Copyright (c) 2026 Khawar Akram. All rights reserved. See `LICENSE`.
-

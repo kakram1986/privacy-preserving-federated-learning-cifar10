@@ -9,10 +9,10 @@ authors:
     affiliation: Ulster University
 version: 1.0.0
 date-released: 2026-08-12
+repository-code: "https://github.com/kakram1986/privacy-preserving-federated-learning-cifar10"
 keywords:
   - federated learning
   - CIFAR-10
   - update perturbation
   - Gaussian noise
   - simulated mask recovery
-
