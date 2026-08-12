@@ -1,0 +1,10 @@
+PUBLICATION EVIDENCE LIMITATIONS
+
+1. One recorded seed (42) is available; cuDNN deterministic mode was disabled.
+2. The official test set was evaluated after each round and used to retain the best checkpoint.
+3. DP-2 (noise 0.005, accuracy 85.08%, time 4.66 min) has summary-level evidence only.
+4. The later DP-2-labelled detailed bundle describes a different noise-0.020 run and is excluded from the intended DP-2 trajectory and class analysis.
+5. No epsilon-delta privacy accountant, sampling-based composition, or calibrated privacy budget was implemented.
+6. SA-1 is a server-known-mask cancellation simulation without key establishment, collusion resistance, or dropout recovery.
+7. The five clients are balanced synthetic IID partitions, not natural users.
+8. Exact package and runtime versions were not retained in the available environment notebook.

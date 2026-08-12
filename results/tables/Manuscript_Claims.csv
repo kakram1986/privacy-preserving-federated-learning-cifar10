@@ -1,0 +1,11 @@
+﻿Claim Topic,Candidate Manuscript Claim,Status,Qualification / Reason
+Baseline utility,The recorded FedAvg run reached 88.55% at round 30.,Supported,Single recorded run
+Low-noise utility,The recorded DP-1 run reached 88.80% at round 30.,Supported,Configured noise only; no formal DP guarantee
+Noise sensitivity,DP-3 and DP-4 showed lower and less stable utility than DP-1.,Supported,Descriptive single-run comparison
+Combined condition,SA-1 reached 86.42% peak and 79.36% at round 30.,Supported,Combined DP plus mask-recovery simulation
+DP-2 summary result,The registered DP-2 run used noise 0.005 and recorded best/final accuracy of 85.08%.,Supported with qualification,Supported by the federated experiment log and six analysis exports; per-round trajectory unavailable
+DP-2 trajectory,DP-2 followed a specific round-by-round convergence or loss trajectory.,Prohibited,The intended 0.005 per-round history was not retained; do not infer or reconstruct values
+Formal privacy,The experiments establish quantified differential privacy.,Prohibited,No epsilon/delta accountant
+Secure aggregation,SA-1 implements cryptographic secure aggregation.,Prohibited,"Server receives masks; no key exchange, dropout recovery, or collusion resistance"
+Overhead,Mask recovery adds a measured secure-aggregation overhead.,Prohibited,No SA-only control and aggregation paths differ in BatchNorm handling
+Noise-sequence trend,"Registered final accuracy decreased from 88.80% to 85.08%, 63.57%, and 20.92% as noise increased from 0.001 to 0.005, 0.010, and 0.020.",Supported with qualification,DP-2 is summary-level evidence; all conditions are single-run and do not establish formal privacy budgets

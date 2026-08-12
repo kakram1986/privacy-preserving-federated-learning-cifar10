@@ -1,0 +1,9 @@
+Experiment,Method,Clients,Rounds,LocalEpochs,LearningRate,BatchSize,ClipNorm,NoiseMultiplier,BestAccuracy,FinalAccuracy,Precision,Recall,F1Score,TrainingTime(min)
+FedAvg,FedAvg,5,30,4,0.001,64,1000.0,0.0,88.55,88.55,0.8849,0.8855,0.8841,4.54
+DP_Validation,Differential Privacy,5,30,4,0.001,64,1.0,0.0,65.18,65.18,0.6632,0.6518,0.6461,4.55
+DP-0R,Revised DP Validation,5,30,4,0.001,64,30.0,0.0,88.49,88.49,0.8851,0.8849,0.8848,4.65
+DP-1,"First DP Eexperiment, Minimal Privacy",5,30,4,0.001,64,10.0,0.001,88.8,88.8,0.8875,0.888,0.8869,4.61
+DP-2,"FedAvg + DP, Low Privacy",5,30,4,0.001,64,10.0,0.005,85.08,85.08,0.8508,0.8508,0.849,4.66
+DP-3,"FedAvg + DP, Moderate Privacy",5,30,4,0.001,64,10.0,0.01,74.18,74.18,0.7814,0.7418,0.7397,4.73
+DP-4,"FedAvg + DP, High Privacy",5,30,4,0.001,64,10.0,0.02,30.16,30.16,0.4637,0.3016,0.254,4.83
+SA-1,FedAvg + Secure Aggregation,5,30,4,0.001,64,10.0,0.001,86.42,86.42,0.8661,0.8642,0.8636,4.68

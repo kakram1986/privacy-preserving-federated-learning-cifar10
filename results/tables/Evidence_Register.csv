@@ -1,0 +1,8 @@
+﻿Experiment,Reporting Decision,Evidence Basis,Required Qualification
+FedAvg,Included,Per-round history + metadata + report,Single seed; test set evaluated each round
+DP-1,Included,Per-round history + metadata + report,No formal privacy accountant; single seed
+DP-2,Included with qualification,"Federated experiment log plus six analysis exports consistently record noise 0.005, best/final accuracy 85.08%, and 4.66 min","Summary-level comparison only; the intended 30-round history was not retained, so DP-2 is omitted from trajectory and loss curves"
+DP-2 overwritten bundle,Excluded from intended sequence,Files currently named DP-2_* consistently describe a separate noise 0.020 run with peak 43.74% and round-30 25.19%,Treat as a later overwritten or mislabeled run; do not use it to replace the registered 0.005 DP-2 summary result
+DP-3,Included,Per-round history + metadata + report,Peak selected on test set; single seed
+DP-4,Included,Per-round history + metadata + report,Peak selected on test set; single seed
+SA-1,Included as combined condition,Per-round history + metadata + report + notebook output,DP enabled; server-known masks; different BatchNorm buffer handling; not SA-only

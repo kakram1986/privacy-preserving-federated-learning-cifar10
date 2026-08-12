@@ -1,0 +1,72 @@
+
+
+====================================================
+
+IID PARTITION STATISTICAL VERIFICATION REPORT
+
+====================================================
+
+Dataset
+
+    CIFAR-10
+
+Training Images
+
+    50000
+
+Clients
+
+    5
+
+Images per Client
+
+    10000
+
+Expected Images per Class
+
+    1000
+
+----------------------------------------------------
+
+Overall Statistics
+
+----------------------------------------------------
+
+Average Standard Deviation
+
+    26.98
+
+Average Coefficient of Variation
+
+    2.7 %
+
+Average Maximum Deviation
+
+    5.48 %
+
+----------------------------------------------------
+
+Interpretation
+
+----------------------------------------------------
+
+The dataset was randomly shuffled using a
+fixed random seed (42) and partitioned
+equally into five clients.
+
+Each client contains exactly 10,000 images.
+
+All ten classes are represented within every
+client.
+
+The observed variation in class frequencies
+remains small and is consistent with
+random IID sampling.
+
+The partition is therefore considered
+appropriate as the baseline IID dataset
+for subsequent Federated Learning
+experiments.
+
+====================================================
+

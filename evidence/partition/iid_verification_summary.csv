@@ -1,0 +1,6 @@
+Client,Total Images,Expected/Class,Mean/Class,Min/Class,Max/Class,Std Dev,Coefficient of Variation (%),Max Deviation (%)
+Client 1,10000,1000,1000.0,933,1040,32.07,3.21,6.7
+Client 2,10000,1000,1000.0,944,1028,23.9,2.39,5.6
+Client 3,10000,1000,1000.0,968,1048,22.88,2.29,4.8
+Client 4,10000,1000,1000.0,965,1046,26.28,2.63,4.6
+Client 5,10000,1000,1000.0,943,1046,29.75,2.98,5.7

@@ -1,0 +1,8 @@
+{
+    "dataset": "CIFAR-10",
+    "partition_type": "IID",
+    "clients": 5,
+    "training_images": 50000,
+    "testing_images": 10000,
+    "seed": 42
+}

@@ -1,0 +1,151 @@
+﻿Experiment,Reporting Label,Round,Training Loss,Test Loss,Test Accuracy (%),Cumulative Peak Accuracy (%),Source File
+FedAvg,FedAvg baseline,1,1.7154258755361955,2.2525520415822413,10.76,10.76,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,2,1.4503922653805676,1.4745371531529032,40.14,40.14,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,3,1.1498550039947413,1.1111575368863005,59.33,59.33,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,4,0.9858454639744608,0.9165617694520648,67.36,67.36,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,5,0.8616773241264806,0.8020919016592062,71.91,71.91,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,6,0.7824773370080693,0.695338715033926,75.3,75.3,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,7,0.7169834391706308,0.6494066772187591,77.39,77.39,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,8,0.6557654583150414,0.5860836266712018,79.79,79.79,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,9,0.602973559707593,0.558750631323286,81.08,81.08,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,10,0.5669351345984041,0.5059009908111232,82.87,82.87,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,11,0.5285115184108162,0.4823453140676401,83.62,83.62,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,12,0.4994747540563534,0.4831929855570672,83.96,83.96,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,13,0.46385666722325,0.4486606043235511,85.32,85.32,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,14,0.4471238529226582,0.4563552309658117,85.2,85.32,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,15,0.4314466335116678,0.4209489497314593,86.26,86.26,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,16,0.4085667535377915,0.4254042201550903,86.19,86.26,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,17,0.3878139798048955,0.4143888232814278,86.66,86.66,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,18,0.3735241416912929,0.4056262819535413,86.87,86.87,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,19,0.3614192468155721,0.39842505302209,87.16,87.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,20,0.3516293181925063,0.3920035565355022,87.31,87.31,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,21,0.3398958826140993,0.3864768976049059,86.99,87.31,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,22,0.3244660344283292,0.4033540442680857,87.04,87.31,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,23,0.3198134472985177,0.3875538932669694,87.81,87.81,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,24,0.306647586224565,0.3715422399769163,88.18,88.18,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,25,0.3033692614762646,0.3706994346894656,88.25,88.25,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,26,0.2883640707203537,0.374084645822929,88.06,88.25,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,27,0.2850989033841783,0.3742631444719377,88.23,88.25,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,28,0.2765884305925886,0.3584068567509864,88.4,88.4,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,29,0.2704572319414965,0.3714566059932587,88.47,88.47,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+FedAvg,FedAvg baseline,30,0.2682414409366383,0.3805335119461557,88.55,88.55,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\FedAvg_history.csv
+DP-1,DP noise 0.001,1,1.7303396937561035,2.3025344875967426,10.0,10.0,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,2,1.488630952720642,1.935633597859911,27.54,27.54,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,3,1.233511756401062,1.3037636644521338,49.56,49.56,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,4,1.0501130396080016,0.990511164543735,64.4,64.4,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,5,0.9137239435577392,0.8528076452054795,69.68,69.68,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,6,0.8206228752326965,0.7010280013464059,74.95,74.95,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,7,0.74354569272995,0.6893918643331831,76.16,76.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,8,0.6790669321537017,0.6212107804930134,78.59,78.59,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,9,0.626977889251709,0.5989229993265905,79.29,79.29,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,10,0.5840799707603455,0.5358956776986457,82.09,82.09,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,11,0.5524656552028656,0.5107659832307487,82.88,82.88,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,12,0.5225134923744201,0.4880548841824197,83.83,83.83,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,13,0.4856045522212982,0.4613464299091108,84.68,84.68,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,14,0.4695801648044586,0.4604563729208746,84.99,84.99,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,15,0.4381846231555938,0.4484638633431902,85.25,85.25,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,16,0.421848437538147,0.4581815486026417,84.75,85.25,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,17,0.4040260417079925,0.4257285342474652,86.03,86.03,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,18,0.3891407550811768,0.4068986602649567,86.71,86.71,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,19,0.3705406952381134,0.4066148324377218,86.55,86.71,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,20,0.3619833677768707,0.4229483875879057,86.75,86.75,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,21,0.3438368955683708,0.3852799362058093,87.42,87.42,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,22,0.3361419667005539,0.3908007936492847,87.46,87.46,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,23,0.3277124875211715,0.3905955663152561,87.85,87.85,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,24,0.3156569942116737,0.3787260028017554,87.76,87.85,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,25,0.3071949589681625,0.3682476889555621,87.94,87.94,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,26,0.3004727659678459,0.3770402018811292,88.07,88.07,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,27,0.2898748109388351,0.3718361415111335,88.41,88.41,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,28,0.2845953533411026,0.3808440516708762,87.82,88.41,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,29,0.2742600762653351,0.3705363121761638,88.21,88.41,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-1,DP noise 0.001,30,0.2770120951128006,0.3578834666093443,88.8,88.8,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-1_history.csv
+DP-3,DP noise 0.010,1,1.720685616569519,2.303113902450367,10.0,10.0,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,2,1.3452761930465698,2.1282737270282333,23.58,23.58,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,3,1.1826659449386596,1.856481886973047,28.0,28.0,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,4,1.0518883697891237,2.119458481005043,33.98,33.98,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,5,0.9541501038360596,1.837749917795704,40.67,40.67,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,6,0.8869920406341553,2.245629939304036,37.77,40.67,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,7,0.8299615282058715,1.7988008139239755,45.23,45.23,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,8,0.7829148841285706,1.5986599610869292,50.88,50.88,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,9,0.7401929946327209,1.176233528525966,59.57,59.57,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,10,0.7150604959201813,1.4095529310262886,54.58,59.57,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,11,0.6836282288742066,1.8649066284203983,47.0,59.57,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,12,0.6577494470405578,0.9155747241275326,68.09,68.09,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,13,0.6367079973220825,1.3812545348124898,58.41,68.09,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,14,0.6185552346611023,1.0546678490699477,63.99,68.09,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,15,0.6036575030136108,0.9507024493187096,67.35,68.09,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,16,0.585060399017334,0.9922110278894948,67.55,68.09,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,17,0.5708522953701018,0.983901452486682,67.39,68.09,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,18,0.5638850797748566,0.861494909616033,71.33,71.33,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,19,0.5476875737762451,0.9199611935645912,69.41,71.33,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,20,0.5408976163864135,0.8254385324800091,72.54,72.54,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,21,0.5319174755096435,0.8408158968208702,72.65,72.65,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,22,0.5156452676486969,1.0399895866585385,66.72,72.65,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,23,0.5119123363876342,1.1950692580004407,64.74,72.65,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,24,0.5024758893918991,1.4808877038348252,59.36,72.65,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,25,0.5035520679092407,1.6908746316174792,55.57,72.65,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,26,0.4983200777149201,1.0215631818315785,68.27,72.65,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,27,0.4955403413581848,0.7898572521984197,74.18,74.18,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,28,0.4795096511554718,1.0024292210864414,68.17,74.18,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,29,0.4843417798995972,0.923045858456071,70.49,74.18,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-3,DP noise 0.010,30,0.4724944650268554,1.2541665377890228,63.57,74.18,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-3_history.csv
+DP-4,DP noise 0.020,1,1.722622403717041,2.607379131256395,9.77,9.77,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,2,1.3258300464057924,3.26096159637354,11.72,11.72,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,3,1.2982649909210204,3.372335099870232,11.63,11.72,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,4,1.2655075918197631,4.767098636384223,13.36,13.36,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,5,1.233196595916748,3.5986557022021834,13.82,13.82,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,6,1.2250510779571535,12.144624491406097,15.13,15.13,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,7,1.2010159464645385,3.901087736627858,20.67,20.67,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,8,1.1895525954818724,4.959446951082557,18.04,20.67,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,9,1.1883430118560792,4.626329364290663,18.65,20.67,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,10,1.1771609913635257,3.2310792640515955,26.93,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,11,1.181763105316162,3.626516576025896,20.49,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,12,1.1801060068511962,9.616129213078008,10.43,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,13,1.1733590574264527,4.005982594884885,23.58,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,14,1.1761589651107789,5.016748654614588,21.84,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,15,1.17133422039032,6.631303863160929,17.77,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,16,1.173334563331604,5.201997179893931,23.32,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,17,1.166167886543274,5.215313091399564,21.1,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,18,1.1820041730308533,4.871835242411134,21.62,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,19,1.1931008164024353,6.883021251411195,13.79,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,20,1.201786676158905,4.214329932146011,20.99,26.93,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,21,1.2121715476989745,2.211720059631737,30.16,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,22,1.219234826145172,4.522593361556909,17.61,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,23,1.2268345547103885,7.7700780576961055,20.74,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,24,1.2379201383399965,4.58036357885713,26.43,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,25,1.2641188172531128,3.71968993259843,23.64,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,26,1.281799486694336,3.839029249871612,20.21,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,27,1.2907348983192444,2.4763103746304846,24.72,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,28,1.293511442375183,3.125887478992438,23.07,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,29,1.30443966217041,4.410055418682706,23.49,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+DP-4,DP noise 0.020,30,1.3092738440895082,3.9731441166750185,20.92,30.16,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\DP-4_history.csv
+SA-1,DP 0.001 + mask recovery,1,1.7109111653900146,2.3026967686452684,10.0,10.0,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,2,1.459320881767273,1.9871507017475785,25.76,25.76,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,3,1.2165932371902466,1.3525955927599769,46.39,46.39,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,4,1.0394613669776915,1.1331803407638696,59.26,59.26,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,5,0.9055378182220458,1.106054825008295,62.5,62.5,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,6,0.8153696578979492,0.8062365112031341,71.56,71.56,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,7,0.7524268275260926,0.7305764698298873,74.59,74.59,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,8,0.6875565215301513,0.8972806017489949,70.05,74.59,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,9,0.6311886630916596,1.1793398166158398,64.84,74.59,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,10,0.5847245418739319,1.0703828505649688,69.67,74.59,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,11,0.548816025981903,0.8108019424471885,74.32,74.59,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,12,0.517898510503769,0.713299853406894,77.24,77.24,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,13,0.4929820218086242,0.7993493592663176,76.1,77.24,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,14,0.4684484197521209,0.6478888937242472,79.32,79.32,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,15,0.4485649668693542,0.89113124540657,74.05,79.32,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,16,0.4262364946079254,0.8207840630962591,75.27,79.32,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,17,0.4071034730148315,0.7006419297236546,77.92,79.32,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,18,0.3954137166881561,0.4972672625711769,83.7,83.7,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,19,0.3770658143520355,0.8185548364736472,76.79,83.7,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,20,0.3685254148101807,0.5768832287211327,82.77,83.7,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,21,0.3533124408531188,0.5423798096028103,82.03,83.7,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,22,0.3410774172019958,0.5490740033661484,82.64,83.7,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,23,0.3338681918573379,0.5032074234098386,83.62,83.7,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,24,0.3227893577289581,0.582384149549873,81.57,83.7,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,25,0.3151875098967552,0.4518942944942766,85.19,85.19,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,26,0.3037578684687614,0.5915622711181641,81.13,85.19,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,27,0.2998263731527328,0.5092526488243394,83.35,85.19,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,28,0.2927586532974243,0.4201493985523843,86.42,86.42,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,29,0.2804733668708801,0.4831096140822027,84.49,86.42,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv
+SA-1,DP 0.001 + mask recovery,30,0.2742092301177978,0.7248908617314259,79.36,86.42,G:\My Drive\COM748_Project\06_Results\Tables\Round_History\SA-1_history.csv

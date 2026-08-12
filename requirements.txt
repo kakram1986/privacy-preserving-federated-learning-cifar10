@@ -1,0 +1,11 @@
+# Exact versions were not retained in the executed environment.
+# Resolve and record versions before any reproduction run.
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+jupyter
+

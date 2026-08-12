@@ -1,0 +1,21 @@
+DP-2 EVIDENCE SCOPE
+
+Retained intended result:
+- Noise multiplier: 0.005
+- Clipping norm: 10
+- Best/final accuracy: 85.08%
+- Training time: 4.66 min
+- Evidence: experiment register and repeated generated analysis exports
+
+Unavailable evidence:
+- The intended 0.005 per-round history and prediction-level outputs were not recovered.
+
+Conflicting later bundle:
+- Noise multiplier: 0.020
+- Best accuracy: 43.74%
+- Includes a history, metadata, classification report, and confusion matrix labelled DP-2
+
+Reporting decision:
+- Retain DP-2 in summary, endpoint, noise-setting, and timing comparisons.
+- Do not use the conflicting bundle for the intended DP-2 trajectory, loss, or class-level analysis.
+- Do not reconstruct or impute missing per-round or prediction data.
